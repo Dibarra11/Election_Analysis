@@ -2,8 +2,7 @@
 
 ## Overview of Election Audit
 
-The project main focus was to perfom an election audit to find the following outcomes:
-
+The project's primary focus was to perform an Election Analysis Audit to determine multiple factors about the election that we will discuss in the following section. The analysis was performed utilizing python. Using different functions like dictionaries, lists, and for loop, we were able to break down the data to understand it better and expedite the results process.
 
 ## Results
 
