@@ -22,6 +22,6 @@ Based on the analysis perfomed
 - Winning vote count: 272,892
 - Winning percentage: 73.8%
 
-![image]()
+![image](https://github.com/Dibarra11/Election_Analysis/blob/b492e5ac324257eba6289e7eaa7fdaea8eee7c2e/Election%20Results%20(txt).png)
 
 ## Election-Audit Summary
