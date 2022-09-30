@@ -11,7 +11,7 @@ Based on the analysis perfomed
 - Counties participating in the election
     - Jefferson: 10.5% (38,855)
     - Denver: 82.8% (306,055)
-    - Arapahoe:6.7% (24,801)
+    - Arapahoe: 6.7% (24,801)
 - Denver had the most casted votes
 - Candidates participating in the election
    - Charles Casper Stockham: 23.0% (85,213)
@@ -24,3 +24,5 @@ Based on the analysis perfomed
 ![image](https://github.com/Dibarra11/Election_Analysis/blob/b492e5ac324257eba6289e7eaa7fdaea8eee7c2e/Election%20Results%20(txt).png)
 
 ## Election-Audit Summary
+
+We can infer from our results that the program's application successfully obtained the desired results. However, incorporating additional data could be highly beneficial to discover more trends like age, sex, and ethnicity of voters, even breaking down further to what candidate they voted for in the election. This data could help in a future election to better campaign to the right group of voters to gain more votes. In addition, this application can be utilized with minimal change to perform different election counts in other states.
